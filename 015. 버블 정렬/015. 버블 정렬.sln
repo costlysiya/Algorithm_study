@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015. 버블 정렬", "015. 버블 정렬\015. 버블 정렬.vcxproj", "{EFD629DA-2CA1-429B-B171-5023676C2808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Debug|x64.ActiveCfg = Debug|x64
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Debug|x64.Build.0 = Debug|x64
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Debug|x86.Build.0 = Debug|Win32
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Release|x64.ActiveCfg = Release|x64
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Release|x64.Build.0 = Release|x64
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Release|x86.ActiveCfg = Release|Win32
+		{EFD629DA-2CA1-429B-B171-5023676C2808}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61589452-4431-46B7-BFE4-D428DE739711}
+	EndGlobalSection
+EndGlobal
