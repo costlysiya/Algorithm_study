@@ -7,7 +7,8 @@ using namespace std;
 
 bool cmp(const string& a, const string& b) {
 	//1. 길이 비교
-	if (a.size() < b.size()) return true;
+	if (a.size() != b.size()) return a.size() < b.size();
+
 	//2. 숫자 합 비교
 	int a_cnt = 0, b_cnt = 0;
 	for (char c : a) {
