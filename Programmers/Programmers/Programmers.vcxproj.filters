@@ -18,5 +18,8 @@
     <ClCompile Include="합승 택시 요금.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="시험장 나누기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
